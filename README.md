@@ -1,2 +1,1 @@
-# Police-install
-Police Cheats Install
+# PoliceCheats-install
